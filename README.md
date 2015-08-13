@@ -6,4 +6,4 @@ Example code to show how to drop pins from a JSON file and annotations when the 
 
 JF-ZS
 
-{3301}
+Explore {3301}
